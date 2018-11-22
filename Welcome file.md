@@ -1,7 +1,7 @@
 ## D&D Characters
 
  **Hor Hal, le balafré- Fighter**
-Lawful Good
+Alignment:  Lawful Good
 
 Str    15    +1    +5% xp
 Dex    11
@@ -38,7 +38,7 @@ Rope 50'
 Oil flasks x 2
 
 **Penfan le personnificateur  - Thief** 
-neutral
+Alignment:  neutral
 
 Str    6    -1
 Dex    12
@@ -88,7 +88,7 @@ Iron spikes x12
 Hammer
 
 **Sho Go, Le sage -  Magic Users**
-Neutral
+Alignment:  Neutral
 
 Str    5    -2
 Dex    10
@@ -132,7 +132,7 @@ Wolfsbane
 Lantern
 Oil x5
 
-Yor Esro - Cleric
+**Yor Esro - Cleric**
 Alignment:  Lawful Good
 
 Str    12
@@ -173,6 +173,6 @@ Tinderbox
 Torches x6
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNjUyODIzLC0yNDIzNTQxNjIsMTk1ND
-Y3NzQ1MiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbNzc1MTMxNzEyLDYxMjY1MjgyMywtMjQyMz
+U0MTYyLDE5NTQ2Nzc0NTIsLTE3NDM0NjQ0NjldfQ==
 -->
