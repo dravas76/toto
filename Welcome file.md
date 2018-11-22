@@ -1,6 +1,6 @@
 ## D&D Characters
 
-### Hor Hal, le balafré- Fighter
+ **Hor Hal, le balafré- Fighter**
 Lawful Good
 
 Str    15    +1    +5% xp
@@ -37,7 +37,7 @@ Lantern
 Rope 50'
 Oil flasks x 2
 
-### Penfan le personnificateur  - Thief 
+Penfan le personnificateur  - Thief 
 neutral
 
 Str    6    -1
@@ -177,6 +177,6 @@ Tinderbox
 Torches x6
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjg1MzkzMCwxOTU0Njc3NDUyLC0xNz
+eyJoaXN0b3J5IjpbLTI0MjM1NDE2MiwxOTU0Njc3NDUyLC0xNz
 QzNDY0NDY5XX0=
 -->
