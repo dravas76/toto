@@ -37,7 +37,7 @@ Lantern
 Rope 50'
 Oil flasks x 2
 
-Penfan le personnificateur  - Thief 
+**Penfan le personnificateur  - Thief** 
 neutral
 
 Str    6    -1
@@ -87,9 +87,7 @@ Backpack
 Iron spikes x12
 Hammer
 
-
---------------------------------------------
-Sho Go, Le sage -  Magic Users
+**Sho Go, Le sage -  Magic Users**
 Neutral
 
 Str    5    -2
@@ -134,8 +132,6 @@ Wolfsbane
 Lantern
 Oil x5
 
-
--------------------------------------------------
 Yor Esro - Cleric
 Alignment:  Lawful Good
 
@@ -177,6 +173,6 @@ Tinderbox
 Torches x6
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjM1NDE2MiwxOTU0Njc3NDUyLC0xNz
-QzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbNjEyNjUyODIzLC0yNDIzNTQxNjIsMTk1ND
+Y3NzQ1MiwtMTc0MzQ2NDQ2OV19
 -->
