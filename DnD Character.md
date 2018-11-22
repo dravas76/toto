@@ -1,177 +1,146 @@
-## D&D Characters
+# Welcome to StackEdit!
 
- **Hor Hal, le balafré- Fighter**
-Alignment:  Lawful Good
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-Str    15    +1    +5% xp
-Dex    11
-Con    10
-Int    9
-Wis    6    -1
-Chr    8    -1
 
-HP    8
-AC    4
-ThAC0    19
-Gold    2
+# Files
 
-Saving throws
+StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-Death Ray/Poison    12
-Magic wands    13
-Paralysis/Stone    14
-Dragon breath    15
-Rod/Staff/Spell    16
+## Create files and folders
 
-Equipment
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
-Sword 1d8
-Dagger 1d4
-Longbow 1d6
-100 arrows
-Shield
-Chain mail
-Backpack
-Clothes x2
-Lantern
-Rope 50'
-Oil flasks x 2
+## Switch to another file
 
-**Penfan le personnificateur  - Thief** 
-Alignment:  neutral
+All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
 
-Str    6    -1
-Dex    12
-Con    12
-Int    9
-Wis    8    -1
-Chr    14    +1
+## Rename a file
 
-HP    4
-ThAC0    19
-AC    7
-Gold    2
+You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
-Saving throws
+## Delete a file
 
-Death Ray/Poison    13
-Magic wands    14
-Paralysis/Stone    13
-Dragon breath    16
-Rod/Staff/Spell    15
+You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
-Thief abilities
+## Export a file
 
-Open locks    15
-Find traps    10
-Remove traps    10
-Climb walls    87
-Move silently    20
-Hide in shadows    10
-Pick pockets    20
-Hear noise    30
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
-Backstab +4 to hit, double damage
 
-Equipment
+# Synchronization
 
-Dagger 1d4
-Longsword 1d8
-Light crossbow 1d6
-60 bolts
-Leather armor
-Thieves tools
-Clothes x2
-Rope 50'    
-Backpack
-Iron spikes x12
-Hammer
+Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
-**Sho Go, Le sage -  Magic Users**
-Alignment:  Neutral
+There are two types of synchronization and they can complement each other:
 
-Str    5    -2
-Dex    10
-Con    9
-Int    14    +1    +5% xp
-Wis    9
-Con    7    -1
+- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
+	> To start syncing your workspace, just sign in with Google in the menu.
 
-HP    1
-AC
-ThAC0    19
-Gold    16
+- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
+	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
-Death Ray/Poison    13
-Magic wands    14
-Paralysis/Stone    13
-Dragon breath    16
-Rod/Staff/Spell    15
+## Open a file
 
-Spells / day
+You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
 
-Level 1 - 1
+## Save a file
 
-Spells known
+You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
 
-Charm person
-Sleep
+## Synchronize a file
 
-Equipment
+Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
 
-Staff 1d6
-Sling 1d4
-90 stones    
-Backpack
-Clothes x2
-Mirror
-Rations    x4
-Waterskin
-Wine
-Wolfsbane
-Lantern
-Oil x5
+If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
 
-**Yor Esro - Cleric**
-Alignment:  Lawful Good
+> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
 
-Str    12
-Dex    12
-Con    10
-Int    10
-Wis    17    +2    +5% XP
-Chr    10
+## Manage file synchronization
 
-HP    4
-ThAC0    19
-AC    4
-Gold    0
+Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
 
-Saving throws
 
-Death Ray/Poison    11
-Magic wands    12
-Paralysis/Stone    14
-Dragon breath    16
-Rod/Staff/Spell    15
+# Publication
 
-Turn undead
+Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
-Skeleton    7
-Zombie    9
-Ghoul    11
+> Before starting to publish, you must link an account in the **Publish** sub-menu.
 
-Equipment
+## Publish a File
 
-Mace 1d6 
-Shield
-Chain mail
-Backpack
-Clothes x2
-Holy symbol
-Tinderbox
-Torches x6
+You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
 
+- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
+- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+
+## Update a publication
+
+After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+
+> **Note:** The **Publish now** button is disabled if your file has not been published yet.
+
+## Manage file publication
+
+Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+
+
+# Markdown extensions
+
+StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+
+> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+
+
+## SmartyPants
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+
+## KaTeX
+
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MTMxNzEyXX0=
+eyJoaXN0b3J5IjpbLTE3NDM0NjQ0NjksNzc1MTMxNzEyXX0=
 -->
